@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Virtual environments
+.venv/
+.env
+
+# Model files（只排除 .pt, .bin 等大型格式）
+*.pt
+*.bin
