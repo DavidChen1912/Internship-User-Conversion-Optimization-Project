@@ -2,7 +2,8 @@
 **User Conversion Optimization Project**
 
 ## ⚠️ Disclaimer  
-This repository documents my internship at **i-TRUE @cosme**. Due to an **Non-Disclosure Agreement (NDA)**, I cannot provide the original internal datasets. Instead, I used publicly available @cosme URLs as the content basis for GPT-generated synthetic data, reconstructing the dataset structure. **No proprietary or confidential company data is included.**
+This repository documents my internship at **i-TRUE @cosme**. Due to an **Non-Disclosure Agreement (NDA)**, I cannot provide the original internal datasets. Instead, I used publicly available @cosme URLs as the content basis for GPT-generated synthetic data, reconstructing the dataset structure.  
+**No proprietary or confidential company data is included.**
 
 ---
 
@@ -74,3 +75,4 @@ python conversion_analysis.py --paths_data_name=paths --classification_data_name
 
 
   
+
