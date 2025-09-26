@@ -79,4 +79,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     process(args.data, args.output)
 
-# python preprocessing.py --data=tracking_history --output=paths
+# python preprocessing.py --data=example --output=paths
