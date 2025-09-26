@@ -1,5 +1,5 @@
 # Internship – i-TRUE @cosme  
-<img src="docs/@cosme.png" alt="@cosme logo" width="70%" height="250"/>
+<img src="docs/@cosme.png" alt="@cosme logo" width="70%" />
 **User Conversion Optimization Project**
 
 ## ⚠️ Disclaimer  
@@ -75,6 +75,7 @@ python conversion_analysis.py --paths_data_name=paths --classification_data_name
 
 
   
+
 
 
 
