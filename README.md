@@ -9,7 +9,9 @@ This repository documents my internship at **i-TRUE @cosme**. Due to an **Non-Di
 ## 📖 Introduction  
 **@cosme** is the largest cosmetics information platform in Taiwan, where users frequently browse and share product reviews, often leading to purchase intent. The leadership team sought to better understand behavioral differences across customer segments and identify patterns of high-value customers.  
 
-This project analyzed individual user browsing paths to uncover the key webpages and browsing paths that most strongly influenced conversions. Based on these insights, We provided business recommendations to optimize the customer journey and improve conversion rates. The full project pipeline and documentation can be found under the [`/docs`](./docs) directory.  
+This project analyzed individual user browsing paths to uncover the key webpages and browsing paths that most strongly influenced conversions. Based on these insights, We provided business recommendations to optimize the customer journey and improve conversion rates.  
+
+The full project pipeline and documentation can be found under the [`/docs`](./docs) directory.  
 
 ---
 
@@ -72,6 +74,7 @@ python conversion_analysis.py --paths_data_name=paths --classification_data_name
 
 
   
+
 
 
 
