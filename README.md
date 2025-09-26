@@ -12,8 +12,6 @@ This repository documents my internship at **i-TRUE @cosme**. Due to an **NDA**,
 
 This project analyzed **individual user browsing paths** to uncover the **key webpages** and **browsing paths** that most strongly influenced conversions. Based on these insights, We provided business recommendations to optimize the customer journey and improve conversion rates.  
 
-The full project pipeline and documentation can be found under the [`/docs`](./docs) directory.  
-
 ---
 
 ## 🛠️ Scripts  
@@ -80,6 +78,7 @@ python conversion_analysis.py --paths_data_name=paths --classification_data_name
 
 
   
+
 
 
 
