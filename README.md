@@ -37,6 +37,8 @@ python execute.py --data=example
 - **`data`** must match the structure of example.csv
 - The one-click execution uses generalized parameters. For custom experiments, run each module separately.
 
+---
+
 ## 🗂️ Preprocessing
 
 Convert internal datasets into user browsing paths:
@@ -49,6 +51,7 @@ python preprocessing.py --data=example --output=paths
 - **`data`**: input dataset
 - **`output`**: name for the transformed paths dataset (saved in [`/outputs`](./outputs))
 
+---
 
 ## 🔎 Feature Selection
 
@@ -61,6 +64,8 @@ python feature_select.py --data=paths --classification_data_name=conversion --fe
 #### Notes:
 - Input: browsing path dataset (**`data`**)
 - Output: two datasets (**`classification_data_name`** and **`feature_data_name`**) stored in [`/outputs`](./outputs)
+
+---
 
 ## 📊 Conversion Analysis
 
@@ -75,6 +80,7 @@ python conversion_analysis.py --paths_data_name=paths --classification_data_name
 
 
   
+
 
 
 
