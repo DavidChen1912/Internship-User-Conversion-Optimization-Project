@@ -63,7 +63,7 @@ python feature_select.py --data=paths --classification_data_name=conversion --fe
 
 ## 📊 Conversion Analysis
 
-Generate high-value browsing paths 
+Generate high-value browsing paths and conversion-rate reports 
 
 ```
 python conversion_analysis.py --paths_data_name=paths --classification_data_name=conversion --feature_data_name=top5_features
@@ -74,6 +74,7 @@ python conversion_analysis.py --paths_data_name=paths --classification_data_name
 
 
   
+
 
 
 
